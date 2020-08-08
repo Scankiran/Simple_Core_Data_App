@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.1.0)
+  - ARSLineProgress (3.1.0)
+  - CBFlashyTabBarController (0.8.3)
+  - JGProgressHUD (2.1)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - ARSLineProgress (~> 3.1)
+  - CBFlashyTabBarController
+  - JGProgressHUD
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ARSLineProgress
+    - CBFlashyTabBarController
+    - JGProgressHUD
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 9d5c5f602928e512395b30950c5984eca840093c
+  ARSLineProgress: 60778657c69491796c3faf5b834c72924c405833
+  CBFlashyTabBarController: bc6b11dd4cbc9b54785c8944156e2f4d4f03b088
+  JGProgressHUD: aa403e9a5b45cae98903c4600cccdd98c0c3ec90
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: cfffb29c90ab238f7764b809dbb2a03ef3ec38e0
+
+COCOAPODS: 1.9.1
